@@ -34,4 +34,15 @@ Implemented data preprocessing, feature selection, and model evaluation using lo
 ---
 
 ### 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://www.linkedin.com/in/your-link/](http://www.linkedin.com/in/maryama-hassan-466547287))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=notion&logoColor=white)](https://www.datascienceportfol.io/Maryama)
+
+
+---
+
+### 🪶 About Me
+- 🌸 I enjoy combining analytical thinking with creativity — from data visualisation to storytelling.  
+- 💭 Currently expanding my skills in machine learning and cloud-based data pipelines.  
+- 🌿 Always curious, always learning.
+
+---
