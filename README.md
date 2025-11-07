@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Maryama Hassan  
 
-🎓 Data Science graduate | 📊 Data Analyst | ☁️ Cloud Computing Enthusiast  
+🎓 Data Science graduate | 📊 Data Analyst 
 
 I’m passionate about uncovering meaningful insights from data and creating visual, evidence-based solutions.  
 My work often combines statistical analysis, machine learning, and interactive visualisation to make data both informative and engaging.
@@ -11,8 +11,16 @@ My work often combines statistical analysis, machine learning, and interactive v
 - **Programming:** Python, SQL  
 - **Visualisation:** Tableau, Matplotlib, Seaborn  
 - **Machine Learning:** Scikit-learn, KNN, ARIMA, SARIMAX  
-- **Cloud Platforms:** Microsoft Azure  
-- **Tools:** Jupyter Notebook, GitHub, Excel  
+- **Tools:** Jupyter Notebook, GitHub, Excel
+  
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3792CB?logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
 
 ---
 
@@ -34,7 +42,7 @@ Implemented data preprocessing, feature selection, and model evaluation using lo
 ---
 
 ### 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://www.linkedin.com/in/your-link/](http://www.linkedin.com/in/maryama-hassan-466547287/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/maryama-hassan-466547287/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=notion&logoColor=white)](https://www.datascienceportfol.io/Maryama)
 
 
